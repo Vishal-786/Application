@@ -1,3 +1,3 @@
 # Update Application
 
-Adding Story By DEV B
+Adding Story By Dev B
